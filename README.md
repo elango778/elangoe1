@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AJITHA S</h1>
+<h1 align="center">Hi 👋, I'm Elango R</h1>
 <h3 align="center">Specialist in Microcontroller Programming and Secure Embnedded Apllications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajithaa4&label=Profile%20views&color=0e75b6&style=flat" alt="ajithaa4" /> </p>
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Embedded C, C++,UART,I2C,SPI,CAN,ARM7,LPC2129,8051,Linux Internals**
 
-- 📫 How to reach me **ajitha08092001@gmail.com**
+- 📫 How to reach me **elangoyogesh435@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
